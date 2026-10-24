@@ -1,0 +1,10 @@
+Universidad de Stanford,1
+Instituto Tecnológico de Massachusetts (MIT),2
+Universidad de California,1
+Carnegie Mellon University,1
+Georgia Institute of Technology,6
+Universidad de Salamanca,5
+Universidad de Barcelona,5
+Universidad Complutense de Madrid,5
+Universidad de Granada,5
+Universidad de Valencia,5
